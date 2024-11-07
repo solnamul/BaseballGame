@@ -20,6 +20,6 @@ class BaseballGame {
     }
 }
 
-// 인스터스 생성!
+// 인스터스 생성!!
 let game = BaseballGame()
 game.start()
